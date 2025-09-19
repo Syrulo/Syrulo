@@ -41,10 +41,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="Trello" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/I/ibm-z-os-logo-4F7D2C6D8F-seeklogo.com.png" alt="Z/OS" width="40" height="40"/>
-  <img src="https://iconarchive.com/download/i10835/google/noto-emoji-animals-nature/22215-dinosaur.ico" alt="COBOL" width="40" height="40"/>
-  <img src="https://iconarchive.com/download/i10835/google/noto-emoji-animals-nature/22215-dinosaur.ico" alt="JCL" width="40" height="40"/>
-  <img src="https://iconarchive.com/download/i10835/google/noto-emoji-animals-nature/22215-dinosaur.ico" alt="DB2" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/COBOL_logo.svg" alt="COBOL" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/IBM_DB2_logo.svg" alt="DB2" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/IBM_zOS_logo.svg" alt="Z/OS" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/JCL_icon.png" alt="JCL" width="40" height="40"/>
 </p>
 
 Thanks for visiting my profil !

@@ -26,7 +26,7 @@
 
 ## 🌐 Check out my personal website (in French): 
 
-[![monsite.com](https://devthomas.fr/)
+[devthomas.fr](https://devthomas.fr/)
 
 ---
 

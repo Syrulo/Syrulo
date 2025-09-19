@@ -8,7 +8,8 @@
 
 ---
 
-- 💻 I'm currently working on improving my skills in **Symfony** and **Vue.js**
+- 🎓 I'm currently completing a mainframe development (COBOL) training, gaining skills in Z/OS, CICS, and DB2
+- 💻 I'm working on improving my skills in **Symfony** and **Vue.js**
 - ⚙️ I'm also learning more about **DevOps**, especially **CI/CD** and **Docker**
 - 💡 I'm looking for **collaborative projects** involving Symfony and/or Vue.js
 - 🎮 I'm interested in **video games**, **guitar**, **cinema**, and whatever hypes me!

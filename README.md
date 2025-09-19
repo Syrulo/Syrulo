@@ -41,10 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="Trello" width="40" height="40"/>
-  <span style="display:inline-block; padding:5px 10px; background:#1a1a1a; color:white; border-radius:5px; font-size:14px;">COBOL</span>
-  <span style="display:inline-block; padding:5px 10px; background:#1a1a1a; color:white; border-radius:5px; font-size:14px;">DB2</span>
-  <span style="display:inline-block; padding:5px 10px; background:#1a1a1a; color:white; border-radius:5px; font-size:14px;">Z/OS</span>
-  <span style="display:inline-block; padding:5px 10px; background:#1a1a1a; color:white; border-radius:5px; font-size:14px;">JCL</span>
 </p>
 
 Thanks for visiting my profil !

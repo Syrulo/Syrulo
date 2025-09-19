@@ -1,8 +1,12 @@
+<div align="center">
+
 ## 👋 Hi, I'm Thomas Borestel @Syrulo
+
+</div>
 
 <div align="center">
   
-### 'm a passionate web developer from France, currently looking for my first job in the web development field. I’m also completing a mainframe development (COBOL) training, while actively learning and improving my skills through personal projects and continuous training.
+### I'm a passionate web developer from France, currently looking for my first job in the web development field. I’m also completing a mainframe development (COBOL) training, while actively learning and improving my skills through personal projects and continuous training.
 
 </div>
 

@@ -24,6 +24,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-borestel-4ba08414/)
 
+## 🌐 Check out my personal website (in French): 
+
+[![monsite.com](https://devthomas.fr/)
+
 ---
 
 ## 🚀 Languages and Tools :

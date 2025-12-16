@@ -6,17 +6,17 @@
 
 <div align="center">
   
-### I'm a passionate web developer from France, currently looking for my first job in the web development field. I’m also completing a mainframe development (COBOL) training, while actively learning and improving my skills through personal projects and continuous training.
+### I'm a passionate web developer from France, currently looking for my first job in web development. I have also completed a mainframe development (COBOL) training and continue improving my skills through personal projects and continuous learning.
 
 </div>
 
 ---
 
-- 🎓 I'm currently completing a mainframe development (COBOL) training, gaining skills in Z/OS, CICS, and DB2
-- 💻 I'm working on improving my skills in **Symfony** and **Vue.js**
-- ⚙️ I'm also learning more about **DevOps**, especially **CI/CD** and **Docker**
-- 💡 I'm looking for **collaborative projects** involving Symfony and/or Vue.js
-- 🎮 I'm interested in **video games**, **guitar**, **cinema**, and whatever hypes me!
+- 🎓 I have completed a mainframe development (COBOL) training, gaining skills in Z/OS, COBOL, JCL, CICS, and DB2
+- 💻 I continue improving my skills in Symfony and Vue.js
+- ⚙️ I’m also learning more about DevOps, especially CI/CD and Docker
+- 💡 I’m looking for collaborative projects involving Symfony and/or Vue.js
+- 🎮 I’m interested in video games, guitar, cinema, and other hobbies
 
 ---
 

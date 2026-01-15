@@ -1,37 +1,51 @@
-<div align="center"> 
-  
-# 👋 Hi, I'm Thomas Borestel @Syrulo
-
+<div align="center">
+<h1>👋 Bienvenue sur mon profil !</h1>
 </div>
-  
-### I'm a passionate web developer from France, currently looking for my first job in web development. I have also recently completed a mainframe development (COBOL) training and continue improving my skills through personal projects and continuous learning.
-  
----
 
-- 🎓 I have completed a mainframe development (COBOL) training, gaining skills in Z/OS, CICS, and DB2
-- 💻 I continue improving my skills in Symfony and Vue.js
-- ⚙️ I’m also learning more about DevOps, especially CI/CD and Docker
-- 💡 I’m looking for collaborative projects involving Symfony and/or Vue.js
-- 🎮 I'm interested in **video games**, **guitar**, **cinema**, and whatever hypes me! 
+### **Passionné par le développement web, j'ai décidé de me reconvertir dans ce domaine après un bilan de compétences. Curieux et motivé, j'aime découvrir de nouvelles technologies et apprendre en pratiquant.**
 
---- 
+<hr style="border:0;height:1px;background-color:#ddd;" />
 
-**📫 Contact me by mail :**  [![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tborestel@gmail.com) 
+- 🎓 J'ai suivi une formation en développement mainframe (COBOL), acquérant des compétences sur Z/OS, CICS et DB2.  
+- 💻 Je continue de développer mes compétences en Symfony et Vue.js.  
+- ⚙️ Je m'intéresse également au DevOps, notamment CI/CD et Docker.  
+- 💡 Je recherche des projets collaboratifs autour de Symfony et/ou Vue.js.  
+- 🎮 Je suis passionné par les **jeux vidéo**, la **guitare**, le **cinéma**, et **l'écriture** !
 
-**🔗 Connect with me :**  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-borestel-4ba08414/) 
+<hr style="border:0;height:1px;background-color:#ddd;" />
 
-**🌐 Check out my personal website (in French):**  [devthomas.fr](https://devthomas.fr/) 
+**📫 Contactez-moi par mail :**  [Gmail](mailto:tborestel@gmail.com)  
+**🔗 Retrouvez-moi sur :**  [LinkedIn](https://www.linkedin.com/in/thomas-borestel-4ba08414/)  
+**🌐 Découvrez mon portfolio :**  [devthomas.fr](https://devthomas.fr/)
 
---- 
-  
-**🚀 Web Development Skills :**  
+<hr style="border:0;height:1px;background-color:#ddd;" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="Trello" width="40" height="40"/>
+### 🚀 Mes compétences en développement web
 
-**🚀 Mainframe / COBOL Skills :**
+**Front-end :**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+
+**Back-end :**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+
+**Outils / Autres :**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="40" height="40"/>
+
+<hr style="border:0;height:1px;background-color:#ddd;" />
+
+### 🚀 Mes Compétences Mainframe / COBOL
 
 **COBOL** | **JCL** | **DB2** | **CICS** | **z/OS** | **PACBASE**
 
----
+<hr style="border:0;height:1px;background-color:#ddd;" />
 
-**Thanks for visiting my profile !**
+**Merci d'avoir visité mon profil !**
